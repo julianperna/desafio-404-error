@@ -102,7 +102,7 @@ a {
   cursor: pointer;
   -webkit-transition: all 200ms ease-in-out;
   transition: all 200ms ease-in-out;
-  margin-bottom: 308px;
+  
 }
 .main-button:hover {
   background-color: rgb(161, 161, 161);
@@ -125,7 +125,7 @@ footer {
   margin-bottom: 24px;
 }
 .footer-p a{
-  color: #BDBDBD;
+  color: #333333;
 }
 
 @media only screen and (max-width: 800px) {
