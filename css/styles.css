@@ -1,0 +1,125 @@
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@700&family=Space+Mono&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  height: 100vh;
+  width: 100vw;
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  height: 100%;
+  width: 100%;
+  padding: 40px 80px 30px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+}
+
+.not-found {
+  text-transform: uppercase;
+  font-size: 24px;
+  font-family: "Inconsolata", monospace;
+  font-weight: 700;
+  letter-spacing: -0.08em;
+  color: #333333;
+  margin: 0;
+  padding: 0;
+}
+
+.main-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.container-left {
+  width: 40%;
+}
+
+.container-left img {
+  width: 100%;
+}
+
+.container-right {
+  width: 60%;
+  height: 100%;
+  padding-left: 120px;
+}
+
+.main-h1 {
+  font-size: 64px;
+  font-family: "Space Mono", monospace;
+  font-weight: 700;
+  letter-spacing: -0.035em;
+  color: #333333;
+  line-height: 95px;
+  margin: 0;
+  padding: 0;
+  margin-bottom: 10px;
+  max-width: 580px;
+}
+
+.main-p {
+  font-size: 24px;
+  font-family: "Space Mono", monospace;
+  font-weight: 400;
+  letter-spacing: -0.035em;
+  color: #4f4f4f;
+  line-height: 36px;
+  padding: 0;
+  max-width: 380px;
+  margin-bottom: 40px;
+}
+
+.main-button {
+  text-transform: uppercase;
+  color: #ffff;
+  padding: 24px 43px;
+  background-color: #333333;
+  font-family: "Space Mono", monospace;
+  font-weight: 700;
+  font-size: 14px;
+  letter-spacing: -0.035em;
+  cursor: pointer;
+  -webkit-transition: all 200ms ease-in-out;
+  transition: all 200ms ease-in-out;
+  margin-bottom: 40px;
+  
+}
+.main-button:hover {
+  background-color: transparent;
+  color: #333333;
+}
+
+
+
+
+footer {
+  text-align: center;
+}
+
+.footer-p {
+  color: var(--light-font-2);
+  font-family: var(--montserrat);
+  font-weight: 500;
+  font-size: 13px;
+  margin: 0;
+  padding: 0;
+}
