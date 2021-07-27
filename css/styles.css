@@ -136,6 +136,9 @@ footer {
     padding: 0;
     flex-direction: column;
   }
+  .not-found {
+    margin-bottom: 64px;
+  }
   .main-container .container-left {
     min-width: 80%;
     max-width: 100%;
@@ -157,6 +160,7 @@ footer {
     min-width: 80%;
     max-width: 90%;
     letter-spacing: -0.035em;
+    line-height: 71px;
   }
   .main-p {
     font-size: 18px;

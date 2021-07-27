@@ -27,7 +27,7 @@
 ## Table of Contents
 
 - [Vision General](#vision)
-  - [Contruido con](#contruidocon)
+  - [Contruido con](#contruido-con)
 - [Características](#caracteristicas)
 - [Contacto](#contacto) 
 
