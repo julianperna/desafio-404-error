@@ -24,7 +24,7 @@
 
 <!-- TABLE OF CONTENTS -->
 
-## Table of Contents
+## Tabla de contenido
 
 - [Vision General](#vision)
   - [Contruido con](#contruido-con)
@@ -50,5 +50,5 @@ Esta aplicación / sitio se creó como un envío a un desafío [DevChallenges](h
 ## Contacto
 
 - Website [https://julianperna.github.io/desafio-404-error/](https://julianperna.github.io/desafio-404-error/)
-- GitHub [@julianperna](https://{github.com/julianperna})
+- GitHub [julianperna](https://github.com/julianperna)
 
